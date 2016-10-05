@@ -1,4 +1,5 @@
 FROM ubuntu:15.04
+Maintainer Ryan Harper, <ryanharper007@zer0touch.co.uk>
 # You can change the FROM Instruction to your existing images if you like and build it with same tag
 ENV container docker
 ENV LC_ALL C
