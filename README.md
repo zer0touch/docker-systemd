@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/zer0touch/docker-systemd.svg?branch=master)](https://travis-ci.org/zer0touch/docker-systemd)
+
 docker-systemd:ubuntu15.04
 =======
 
